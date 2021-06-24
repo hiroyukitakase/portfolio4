@@ -1,0 +1,21 @@
+<svg id="access-word.svg" xmlns="http://www.w3.org/2000/svg" width="967.84" height="101.35" viewBox="0 0 967.84 101.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2e2c29;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 42px;
+        font-family: YuGothic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path id="シェイプ_4" data-name="シェイプ 4" class="cls-1" d="M1093.64,4671.01l79.71-90.08" transform="translate(-206.25 -4570.34)"/>
+  <path id="シェイプ_5" data-name="シェイプ 5" class="cls-1" d="M295.014,4670.98l-88.025-99.99" transform="translate(-206.25 -4570.34)"/>
+  <text id="大人数の予約も受け付けています" class="cls-2" x="158.365" y="86.147">大人数の予約も受け付けています</text>
+</svg>
